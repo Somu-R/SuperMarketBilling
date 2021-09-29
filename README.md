@@ -1,13 +1,13 @@
 # SuperMarketBillingSystem
 
-Batch Name : JAVA GIC-1
+Batch Name : GIC_AMJ21_FS_JAVA_1
 
         Submitted by:	
   
 Aditya S              -PL0621094,
-Jeeva k               -PL0621095,
-Ramya V               -PL0621107,
-Nihal basha SK        -PL0621101,
-Somasekhar R          -PL0621124,
-Arifuneesa SK	      -PL0621127,
-Vinay Teja K          -PL0621116.
+Jeeva k               -51962131,
+Ramya V               -51960376,
+Nihal basha SK        -51958137,
+Somasekhar R          -51960371,
+Arifunneesa SK	      -51989386,
+Vinay Teja K          -51989389.
